@@ -7,7 +7,7 @@ Tamara Hundich
 Michigan State University edX Data Analytics Bootcamp 
 
 # Introduction 
-The main objective for this group project was find a dataset and use our machine learning skills to analyze, solve, or visualize a problem of our choice. I originally chose to predict the sales price of the home based on the dataset that was found on Redin. However, while prepping the data for linear regression, the sales price of the home was not constant. The sales price varied and was not able to be determined. After determining the sales price was not constant, I decided to change to a more categorical approach and whether the dataset could predict the correct property type.  
+The main objective for this group project was find a dataset and use our machine learning skills to analyze, solve, or visualize a problem of our choice. I originally chose to predict the sales price of the home based on the dataset that was found on Redfin. However, while prepping the data for linear regression, the sales price of the home was not constant. The sales price varied and was not able to be determined. After determining the sales price was not constant, I decided to change to a more categorical approach and whether the dataset could predict the correct property type.  
 
 # Installation 
 The following applications were required to be installed for this Project: 
